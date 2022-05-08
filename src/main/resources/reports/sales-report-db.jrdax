@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>Sales Report API DB</name>
+  <driver>org.postgresql.Driver</driver>
+  <username>postgres</username>
+  <password>12345678</password>
+  <url>jdbc:postgresql://localhost:5432/salesreportsapi</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
